@@ -25,7 +25,7 @@ public class ProdutoServiceTest {
 
     @Test
     public void deveConsultarUmProduto() {
-        Produto p1 = new Produto(1L, "P1", 1D);
+        Produto p1 = new Produto(1L, "ProdutoX1", 1D);
         Produto p2 = new Produto(2L, "P2", 2D);
         Produto p3 = new Produto(3L, "P3", 3D);
 
